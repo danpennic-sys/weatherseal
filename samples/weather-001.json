@@ -1,0 +1,15 @@
+{
+  "report_type": "weather_delay",
+  "date": "2026-11-11",
+  "site": "Field Site Bravo",
+  "job_id": "JOB-2026-1102",
+  "weather_conditions": "Heavy rain, winds 25-35 mph",
+  "temperature_f": 48,
+  "precipitation_inches": 1.8,
+  "site_impact": "Work stopped. Access flooded.",
+  "delay_hours": 6.5,
+  "force_majeure": true,
+  "notes": "On-site observation. Rain gauge 1.8 in.",
+  "observer": "Superintendent J. Hale",
+  "sealed_at": "2026-11-11T16:00:00Z"
+}
